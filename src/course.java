@@ -20,7 +20,7 @@ public class course {
     public static void main(String[] args){
         course cs1 = new course("Computer Science", 80);
         course cs2 = new course("Business and Management", 40);
-        course cs3 = new course("Mathematics", 15);
+        course cs3 = new course("Arts and Humanities", 15);
         course cs4 = new course("Software Engineering", 70);
 
         double average = (double)TotalStudentRegistered / 4;
